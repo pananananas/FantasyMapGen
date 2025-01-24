@@ -54,6 +54,8 @@ uv sync
 
 The project is configured using uv package manager. [Here is a manual for installation](https://docs.astral.sh/uv/getting-started/installation/).
 
+Project supports cuda and mps backends for image generation. Library [mflux](https://github.com/filipstrand/mflux) is used as a MLX backend.
+
 ## Streamlit app
 
 ```bash
