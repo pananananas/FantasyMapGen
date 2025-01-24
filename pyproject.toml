@@ -1,0 +1,25 @@
+[project]
+name = "mapgen"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "requests",
+    "tqdm",
+    "zstandard",
+    "typing",
+    "datetime",
+    "mflux>=0.4.1",
+    "diffusers>=0.32.1",
+    "accelerate>=1.2.1",
+    "protobuf>=5.29.3",
+    "peft>=0.14.0",
+    "sentencepiece>=0.2.0",
+    "streamlit>=1.41.1",
+    "folium>=0.19.4",
+    "streamlit-folium>=0.24.0",
+    "openai>=1.60.0",
+    "pillow>=10.4.0",
+]

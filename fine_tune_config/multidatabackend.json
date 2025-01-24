@@ -1,0 +1,26 @@
+[
+  {
+    "id": "map-lora-dev",
+    "type": "local",
+    "dataset_type": "image",
+    "instance_data_dir": "/net/pr2/projects/plgrid/plggtattooai/code/SimpleTuner/data/imgs",
+    "crop": true,
+    "crop_style": "center",
+    "crop_aspect": "square",
+    "resolution": 1024,
+    "minimum_image_size": 768,
+    "maximum_image_size": 2048,
+    "target_downsample_size": 1024,
+    "resolution_type": "pixel_area",
+    "repeats": 0,
+    "metadata_backend": "discovery",
+    "cache_dir_vae": "/net/pr2/projects/plgrid/plggtattooai/code/SimpleTuner/data/vae_cache"
+  },
+  {
+    "id": "text-embeds",
+    "dataset_type": "text_embeds",
+    "default": true,
+    "type": "local",
+    "cache_dir": "/net/pr2/projects/plgrid/plggtattooai/code/SimpleTuner/data/text_cache"
+  }
+]
