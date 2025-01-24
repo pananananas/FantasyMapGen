@@ -91,6 +91,7 @@ def run_openai_api(prompt):
 
 
 
+
 st.set_page_config(
     page_title="Interactive Map Selector",
     page_icon="🗺️",
