@@ -2,6 +2,8 @@
 
 A sophisticated map generation tool that transforms real-world OpenStreetMap data into fantasy-style maps using AI image generation. Perfect for Dungeons & Dragons campaigns and fantasy world-building.
 
+![MapGenDemo](https://github.com/user-attachments/assets/d96e97ad-4ade-45e2-86ae-335676db1f0b)
+
 ## Features
 
 - 🌍 Interactive map selection through a Streamlit web interface
