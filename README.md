@@ -7,17 +7,17 @@ A sophisticated map generation tool that transforms real-world OpenStreetMap dat
 - 🌍 Interactive map selection through a Streamlit web interface
 - 🎨 Multiple pre-defined color palettes:
 
-  - Forest Realm
+  - 🌲 Forest Realm
   
-  - Winter's Feast
+  - ❄️ Winter's Feast
 
-  - Desert Empire
+  - 🏜️ Desert Empire
       
-  - Vintage
+  - 🏰 Vintage
 
-  - Pastel
+  - 🌸 Pastel
   
-  - Hell
+  - 🔥 Hell
 
 - 🏰 Automatic building and landmark detection
 - 🎯 Customizable AI generation parameters
